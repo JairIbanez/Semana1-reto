@@ -56,7 +56,7 @@ Como su propio nombre indica, este tipo de nube es fruto de una combinación de 
 
 - ## Capas de la nube  
 
-<img src="https://dc722jrlp2zu8.cloudfront.net/media/cache/e8/19/e819d19aa207ffc98dbdcf84df581d5a.webp  " alt="drawing" width="400" />   
+<img src="https://javardila.files.wordpress.com/2014/09/iaas-paas-saas.png" alt="drawing" width="400" />   
 
 
 - ### IaaS (Infrastructure as a Service) o Infraestructura como Servicio
